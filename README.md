@@ -19,3 +19,5 @@ Here are the tools I work with.
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=white)
+
+* Thanks to [Flancast90](https://github.com/flancast90) for the idea of the readme, I really like the look of his so I modified it to my own version.
