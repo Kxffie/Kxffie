@@ -3,7 +3,7 @@ Hey, I'm Kxffie. I am a self taught developer in multiple categories, such as we
 
 Come get to know me by joining the discord below or friending me!
 
-[![Discord Badge](https://img.shields.io/badge/kxffie%236889-%2320232a?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BYGsrvR95Q)
+[![Discord Badge](https://img.shields.io/badge/kxffie%236136-%2320232a?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BYGsrvR95Q)
 
 
 # 🛠 &nbsp;Tech Stack
