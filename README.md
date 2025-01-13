@@ -3,7 +3,7 @@ Hey, I'm Kxffie. I am a self taught developer in multiple categories, such as we
 
 Come get to know me by joining the discord below or friending me!
 
-[![Discord Badge](https://img.shields.io/badge/kxffie-%2320232a?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/FdWDRYBBkf](https://discordapp.com/users/270599412139425803)
+[![Discord Badge](https://img.shields.io/badge/kxffie-%2320232a?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/270599412139425803)
 
 **Frameworks, Platforms and Libraries**
 
